@@ -1,0 +1,10 @@
+$navbar-height: 50px;
+$navbar-default-bg: #eaf4f8;
+
+// "bootstrap-sprockets" must be imported before "bootstrap" and "bootstrap/variables"
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+.center {
+  text-align: center;
+}
