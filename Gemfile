@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-
+  
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.1.0'
 # Use postgresql as the database for Active Record
@@ -14,11 +14,15 @@ gem 'coffee-rails', '~> 4.0.0'
 # See https://github.com/sstephenson/execjs#readme for more supported runtimes
 # gem 'therubyracer',  platforms: :ruby
 
+gem 'devise', '~> 3.4.1'
+
 gem 'bootstrap-sass', '~> 3.3.1.0'
 
 gem 'autoprefixer-rails'
 
 gem 'sprockets-rails'
+
+gem 'rails_12factor'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
