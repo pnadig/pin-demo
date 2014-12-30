@@ -24,6 +24,8 @@ gem 'sprockets-rails'
 
 gem 'rails_12factor'
 
+gem 'paperclip', '~> 4.2.1'
+
 
 
 # Use jquery as the JavaScript library
