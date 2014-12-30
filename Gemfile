@@ -26,6 +26,8 @@ gem 'rails_12factor'
 
 gem 'paperclip', '~> 4.2.1'
 
+gem 'aws-sdk', '~> 1.60.2'
+
 
 
 # Use jquery as the JavaScript library
